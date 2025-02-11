@@ -1,4 +1,4 @@
 ghcr.io/snowdreamtech/frps:nightly-alpine3.20
 nginx
 alpine
-jasonyin2020/oldboyedu-games:v0.4
+jasonyin2020/oldboyedu-games
