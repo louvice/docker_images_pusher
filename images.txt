@@ -3,3 +3,4 @@ nginx
 alpine
 tomcat
 mysql8
+MinIO
