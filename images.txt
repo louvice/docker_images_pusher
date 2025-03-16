@@ -2,5 +2,5 @@ ghcr.io/snowdreamtech/frps:nightly-alpine3.20
 nginx
 alpine
 tomcat
-mysql8
+mysql:8.0
 MinIO
